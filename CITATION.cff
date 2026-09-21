@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Spatial Transport Identifiability in Desmoplastic Tumours: When a Lumped Burden ODE Cannot Represent a Fibrotic Delivery Barrier"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  For stroma-rich carcinomas, which observables are required before a
+  zero-dimensional burden ODE is structurally capable of representing delivery
+  failure? A three-shell filtration-diffusion reduction has four barrier
+  coordinates that enter only through two conductances. The time-integral of
+  the mean has Fisher rank 1 of 4. The mean time course has practical rank 1.
+  Perfusion restores practical rank 2, the conductance subset. Perfusion with
+  interstitial pressure reaches rank 3. Adding a collagen-anisotropy reading
+  reaches rank 4. A matched-mean fibrotic retune leaves the core unidentified
+  by the lumped state. Synthetic generator only. Not a medical device.
+keywords:
+  - structural identifiability
+  - practical identifiability
+  - Fisher information
+  - interstitial fluid pressure
+  - desmoplasia
+  - collagen anisotropy
+  - drug delivery
+  - compartment model
+  - ordinary differential equations
+  - computational oncology
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability"
+repository-code: "https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability"
+preferred-citation:
+  type: thesis
+  title: "Spatial Transport Identifiability in Desmoplastic Tumours: When a Lumped Burden ODE Cannot Represent a Fibrotic Delivery Barrier"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability"
+  notes: "Thesis #11 (NP-02). Computational research. Synthetic transport surrogate. No document DOI."
